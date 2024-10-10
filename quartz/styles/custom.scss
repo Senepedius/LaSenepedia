@@ -1,3 +1,16 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+
+$custom-top-spacing: 2rem;
+
+.page > #quartz-body .sidebar {
+    padding-top: $custom-top-spacing !important;
+}
+.page > #quartz-body .page-header {
+    margin-top: $custom-top-spacing !important;
+}
+.article-title, .tags {
+    display: none;
+}
