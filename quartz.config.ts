@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "es-ES",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "senepedius.github.io/LaSenepedia",
     ignorePatterns: ["private", "templates", ".obsidian", ".git", ".vscode"],
     defaultDateType: "created",
     theme: {
@@ -83,6 +83,7 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
+        rssFullHtml: true,
       }),
       Plugin.Assets(),
       Plugin.Static(),
