@@ -10,7 +10,7 @@ Notas con recursos sin gluten.
 - [Restaurantes y lugares sin gluten](#Restaurantes%20y%20lugares%20sin%20gluten)
 ## Mapa sin gluten (mundial)
 
-![MapComplete-GlutenFree](attachments/MapComplete-GlutenFree.png)
+![MapComplete-GlutenFree](/Food/assets/MapComplete-GlutenFree.png)
 ### https://mapcomplete.org/glutenfree
 En este mapa puedes **ver (e incluso añadir)** los diferentes lugares sin gluten en cualquier parte del mundo. 
 

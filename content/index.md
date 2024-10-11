@@ -1,19 +1,25 @@
 ---
 title: La Senepedia
 ---
+Hola, ¿que tal?, adelante, pasa a mi jardín digital, la entrada es libre.
 
-Un humilde rincón con notas sobre cosas que me interesan y quiero compartir con todo aquel que quiera leerme.
-
-Pensado como una especie de jardín digital / blog personal no lineal, libre de dependencias de software privativos y otras ataduras.
+Este es mi humilde rincón de internet con notas sobre cosas que me interesan y quiero compartir con todo aquel que tolere leerme.
 
 ## Indice
 Lista de notas que pueden ser interesantes:
 
-- [Sin-Gluten](Food/Sin-Gluten.md) Serie de notas sobre lugares o recursos libres para celíacos o intolerantes al gluten.
+- [Sin-Gluten](Food/Sin-Gluten.md) Serie de notas sobre lugares o recursos libres para personas con enfermedad celiaca o sensibilidad al gluten (SGNC).
 - [Awesome Privacy Android Apps (202408251217)](Software/Android/Awesome%20Privacy%20Android%20Apps%20(202408251217).md) (Inglés) Aplicaciones para Android que he usado personalmente enfocadas en privacidad y la soberanía de tus datos.
 
 ## Cómo navegar
-Si no tienes un destino claro, puedes ir pinchando arriba en las diferentes notas o directorios/carpetas que puedas ver interesantes.
+Si no tienes un destino claro, puedes ir pinchando en las diferentes notas o directorios/carpetas que puedas ver interesantes.
+
+### Tags
+También puedes navegar a través de los tags (etiquetas, o temas) que hay en cada nota, aquí te dejo algunos que pueden interesarte:
+
+#seguridad #SinGluten #android #libros #privacy #foss  
+
+## Organización
 
 - Cada directorio intenta englobar un conjunto de notas sobre un tema concreto.
 - Como una nota puede en realidad estar relacionada con más de un tema, la gran mayoría contará con un listado de tags, justo al pié del título, con el que podrás buscar otras notas relacionadas.
@@ -21,7 +27,8 @@ Si no tienes un destino claro, puedes ir pinchando arriba en las diferentes nota
 
 > Las notas pueden estar en Inglés o Español, según tenga el día.
 
-Si tienes cualquier problema o sugerencia puedes contactar conmigo de forma segura a través de mi correo de Proton:
+## Contacto
+Si tienes cualquier problema o sugerencia puedes contactar conmigo de forma segura a través de mi correo:
 
 Senepedius@proton.me
 
