@@ -20,9 +20,17 @@ https://masto.ai/@biciBurgos
 Esta mastodonte informa sobre temas relacionados con la movilidad sostenible y urbana, y acostumbra a plantear preguntas en voz alta. Que no te engañe su pequeña cuenta, aquí hay contenido de calidad.
 
 
-##  Transit por Reece Martin
-https://video.canadiancivil.com/c/transit/videos
+##  Transit por Reece Martin (RMTransit)
+
 <iframe title="Public Transit Doesn’t Have an Environmental Problem" width="560" height="315" src="https://video.canadiancivil.com/videos/embed/52c3bb77-e226-4080-9a4d-a28b86fabe6a" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
+
+¿Alguna vez te has preguntado por qué el transporte público de tu ciudad no parece estar a la altura? RMTransit está aquí para responder a eso y ayudarte a abrir los ojos a todos los diferentes sistemas de transporte público de todo el mundo.
+
+Web oficial: https://reecemartin.ca/
+
+Mastodon: https://masto.canadiancivil.com/@reece
+
+Canal en el Fediverso: https://video.canadiancivil.com/c/transit/videos
 
 ## Not just bikes
 
@@ -72,22 +80,26 @@ https://www.youtube.com/@AdamSomething
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GcKUYbChE3A?si=AQIYbu6N5gDEt43Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Build the lanes
-The science behind getting from here to there
 
 [https://m.youtube.com/channel/UCCxtt5lfU-517oCEcBG6oaA?cbrd=1](https://m.youtube.com/channel/UCCxtt5lfU-517oCEcBG6oaA?cbrd=1 "https://m.youtube.com/channel/UCCxtt5lfU-517oCEcBG6oaA?cbrd=1")
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kqOxBZJ6c1g?si=x8Gm_esfK4x1Y0r9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+The science behind getting from here to there
+
 ## The War on Cars (podcast) 
 
-A podcast about the fight against car culture. Hosted by `Aaron Naparstek`, `Sarah Goodyear` and `Doug Gordon`.
+Un podcast sobre la lucha contra la cultura del automóvil. Presentado por `Aaron Naparstek`, `Sarah Goodyear` y `Doug Gordon`.
 
-https://mastodon.social/@TheWarOnCars
 
 https://thewaroncars.org/
 
+Mastodon: https://mastodon.social/@TheWarOnCars
+
+
 ## Felix on Rails
-He publish mostly railway or travel-related content.
 
 https://www.youtube.com/@felixonrails
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6wLVeCY0ejo?si=IF4fU5TtGI3UVPb-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Publica principalmente contenido relacionado con ferrocarril o sobre viajes.
