@@ -1,7 +1,7 @@
 ---
 title: La Senepedia
 ---
-Hola, ¿que tal?, adelante, pasa a mi jardín digital, la entrada es libre.
+Hola, ¿qué tal?, adelante, pasa a mi jardín digital, la entrada es libre.
 
 Este es mi humilde rincón de internet con notas sobre cosas que me interesan y quiero compartir con todo aquel que tolere leerme.
 
