@@ -5,6 +5,8 @@ Hola, ¿qué tal?, adelante, pasa a mi jardín digital, la entrada es libre.
 
 Este es mi humilde rincón de internet con notas sobre cosas que me interesan y quiero compartir con todo aquel que tolere leerme.
 
+Todo el conocimiento que encuentres aquí es libre, lo que significa que puedes copiarlo, ampliarlo, o hacer con él lo que te dé la gana. Sólo pido que si vas a usarlo, dejes al menos un enlace o mención a mi contenido original.
+
 ## Indice
 Lista de notas que pueden ser interesantes:
 
@@ -17,7 +19,7 @@ Si no tienes un destino claro, puedes ir pinchando en las diferentes notas o dir
 ### Tags
 También puedes navegar a través de los tags (etiquetas, o temas) que hay en cada nota, aquí te dejo algunos que pueden interesarte:
 
-#seguridad #SinGluten #android #libros #privacy #foss  
+#seguridad #SinGluten #android #libros #privacy #foss  #movilidad #urbanismo
 
 ## Organización
 
