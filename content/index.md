@@ -19,7 +19,7 @@ Si no tienes un destino claro, puedes ir pinchando en las diferentes notas o dir
 ### Tags
 También puedes navegar a través de los tags (etiquetas, o temas) que hay en cada nota, aquí te dejo algunos que pueden interesarte:
 
-#seguridad #SinGluten #android #libros #privacy #foss  #movilidad #urbanismo
+#seguridad #SinGluten #android #libros #privacy #foss #movilidad #urbanismo
 
 ## Organización
 
