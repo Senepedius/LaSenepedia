@@ -7,27 +7,37 @@ Este es mi humilde rincón de internet con notas sobre cosas que me interesan y 
 
 Todo el conocimiento que encuentres aquí es libre, lo que significa que puedes copiarlo, ampliarlo, o hacer con él lo que te dé la gana. Sólo pido que si vas a usarlo, dejes al menos un enlace o mención a mi contenido original.
 
-## Indice
-Lista de notas que pueden ser interesantes:
+## Navegación
+### [Tags](./tags/)
+La forma más sencila de navegar este jardín digital es a través de los diferentes #[hashtags](./tags/) (etiquetas, o temas)
+
+Aquí tienes un listado de todas y cada una de ellas:
+[Link](./tags/)
+
+Como guía rápida, aquí te dejo algunas que pueden interesarte:
+
+#SinGluten #seguridad #android #libros #privacy #foss #movilidad #urbanismo
+
+### Notas Destacadas
+Lista de notas que pueden ser de interés:
 
 - [Sin-Gluten](Food/Sin-Gluten.md) Serie de notas sobre lugares o recursos libres para personas con enfermedad celiaca o sensibilidad al gluten (SGNC).
 - [Awesome Privacy Android Apps (202408251217)](Software/Android/Awesome%20Privacy%20Android%20Apps%20(202408251217).md) (Inglés) Aplicaciones para Android que he usado personalmente enfocadas en privacidad y la soberanía de tus datos.
 
-## Cómo navegar
-Si no tienes un destino claro, puedes ir pinchando en las diferentes notas o directorios/carpetas que puedas ver interesantes.
+### Enlaces entre notas
+Las notas además de estar relacionadas por sus tags o temas, pueden estar relacionadas a través de enlaces a otras notas directamente en su cuerpo.
+Esto permite poder saltar de una nota a otra, relacionar temas y ampliar información de forma organica, parecido a como funciona nuestro cerebro o una base de datos relacional.
 
-### Tags
-También puedes navegar a través de los tags (etiquetas, o temas) que hay en cada nota, aquí te dejo algunos que pueden interesarte:
+### Vista de Ordenador (Pantallas grandes)
+#### Exlorador / Menú lateral
+El menú lateral muestra las diferentes carpetas y notas contenidas en cada una de ellas
+Cada directorio intenta englobar un conjunto de notas sobre un tema concreto.
 
-#seguridad #SinGluten #android #libros #privacy #foss #movilidad #urbanismo
+#### Local Graph
+Todos los enlaces y tags de una nota aparecen en su `gráfico local` o `local graph`, puedes hacer zoom, pinchar en cualquier nodo o punto dentro del gráfico y este te llevará a la página de esa nota o de ese tag.
 
-## Organización
-
-- Cada directorio intenta englobar un conjunto de notas sobre un tema concreto.
-- Como una nota puede en realidad estar relacionada con más de un tema, la gran mayoría contará con un listado de tags, justo al pié del título, con el que podrás buscar otras notas relacionadas.
-- Cada nota tiene un código identificador único parecido a este 202408311512
-
-> Las notas pueden estar en Inglés o Español, según tenga el día.
+## Idioma
+Las notas pueden estar en Inglés o Español, según tenga el día, esto depende sobre todo de si he necesitado realizar esta nota para un proyecto o tema que trato en un idioma concreto.
 
 ## Contacto
 Si tienes cualquier problema o sugerencia puedes contactar conmigo de forma segura a través de mi correo:

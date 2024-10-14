@@ -1,6 +1,6 @@
 202409011054
 # Lecturas Recomendadas
-#enlaces #libros #recursos #CodigoLimpio #ArtesaniaSoftware
+#enlaces #libros #recursos #CodigoLimpio #ArtesaniaSoftware #software
 
 Libros y recursos que a mi parecer, pueden ayudarte (mucho) en tu viaje de **mejora de tu código** y la comprensión de **ideas base**, trasversales, en el ámbito de la programación. Generalmente de forma agnóstica (sin importar qué lenguaje de programación o qué sistemas utilices). 
 

@@ -1,6 +1,6 @@
 202408251217
 # Awesome Privacy Android Apps
-#android #apps #foss #tools #privacy #E2EE
+#android #apps #foss #tools #privacy #E2EE #software
 
 Apps for Android with privacy and security as their main focus.
 I've personally tried these apps before recommending them.
