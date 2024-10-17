@@ -30,7 +30,7 @@ Las notas además de estar relacionadas por sus tags o temas, pueden estar relac
 Esto permite poder saltar de una nota a otra, relacionar temas y ampliar información de forma organica, parecido a como funciona nuestro cerebro o una base de datos relacional.
 
 ### Vista de Ordenador (Pantallas grandes)
-#### Exlorador / Menú lateral
+#### Explorador / Menú lateral
 El menú lateral muestra las diferentes carpetas y notas contenidas en cada una de ellas.
 
 Cada directorio intenta englobar un conjunto de notas sobre un tema concreto.
