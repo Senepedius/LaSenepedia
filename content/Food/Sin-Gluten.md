@@ -22,7 +22,7 @@ El mapa no es mío, no lo cree yo, pero sus datos son tuyos y de todos, así que
 
 ## Recursos sin gluten 
 Recopilación de webs o recursos que pueden interesarte.
-[Enlaces-sin-gluten](Enlaces-sin-gluten.md)
+- [Enlaces-sin-gluten](Enlaces-sin-gluten.md)
 ## Restaurantes y lugares sin gluten
 Listados de lugares, principalmente cafeterías y restaurantes sin gluten, agrupados por ciudad
 ### [Almería](./Almeria-Sin-Gluten.md)

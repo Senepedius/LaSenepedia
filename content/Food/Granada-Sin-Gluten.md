@@ -5,7 +5,6 @@
 
 **Mapa gratuito**: https://mapcomplete.org/glutenfree
 ___
-
 ## Granada Capital
 - Rest La Tana (chiquitito y de pie)
 - Restaurante Aparicio's (Carta 100% sin gluten)
