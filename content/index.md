@@ -41,7 +41,7 @@ Todos los enlaces y tags de una nota aparecen en su `gráfico local` o `local gr
 ## Idioma
 Las notas pueden estar en Inglés o Español, según tenga el día, esto depende sobre todo de si he necesitado realizar esta nota para un proyecto o tema que trato en un idioma concreto.
 
-## Contacto
+## [Contacto](Contacto.md)
 Si tienes cualquier problema o sugerencia puedes contactar conmigo de forma segura a través de mi correo:
 
 Senepedius@proton.me
