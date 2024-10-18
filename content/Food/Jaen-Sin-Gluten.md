@@ -111,6 +111,7 @@ ___
 6. Meson Don chema
 7. Chiringuito El Pajarito (El tranco)
 8. Restaurante Montepiedra (Torre de Vinagre)
+
 ### Arrollo Frío (Cazorla)
 1. La Forcheta
 
@@ -122,6 +123,11 @@ ___
 5. La Abadía del Monje
 6. Cafetería Eros
 
+## Alcalá la Real
+- Churrería el Ferial (Avisar media hora antes y mínimo para 2 personas)
+- La Piedra
+- Mesón Alsur
+- El rincón de Pepe
 ___
 Orígenes de datos:
 - Listado manual conjunto de la Comunidad de Whatsapp Celiacos de España > Celiacos de Jaén

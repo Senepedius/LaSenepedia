@@ -10,13 +10,18 @@
 - El quinteto en (Calahonda)
 - La cuchara de Carmela
 - El pescaito de Carmela (Carta 100% sin gluten)
-* La nonna Carmela (Carta 100% sin gluten)
-* La Piccola Carmela (Muchas opciones sin gluten)
-* Rue de la Crepe
-* Mercedes isla (pastelería, cafetería)
-* La Gran Taberna
-* Pizzería tradizione italiana solo findes y festivos (hacen reparto a domicilio)
-* Cafetería Igra (plaza Gracia en el centro)
+- La nonna Carmela (Carta 100% sin gluten)
+- La Piccola Carmela (Muchas opciones sin gluten)
+- Rue de la Crepe
+- Mercedes isla (pastelería, cafetería)
+- La Gran Taberna
+- Pizzería tradizione italiana solo findes y festivos (hacen reparto a domicilio)
+- Cafetería Igra (plaza Gracia en el centro)
+- Wild Food (100% sin gluten y Vegano)
+- Sancho Burguer (Varios locales por todo Granada)
+- El tacón flamenco
+- Pastelería Cristina (Calle Recogidas)
+- La Máfia (frente al Forum)
 
 ## ALMUÑECAR
 - Restaurante Botos en paseo de San un Cristobal
@@ -30,12 +35,12 @@
 - Cafe la Italiana
 - La Cabaña
 - Rest.La Tralla
-- " Mar de Plata
+- Mar de Plata
+
 ## Armilla
-- Cafetería bar Camino bajo del Monge (pescaito)
-*Centro comercial Nevada*
-- Pizz Gondoliere
-- El tacon flamenco, Jorge
+- Cafetería bar Camino bajo del Monge (pescaito) - Centro comercial Nevada
+- Pizzería Gondoliere - Centro comercial Nevada
+- El tacón flamenco - Centro comercial Nevada
 
 ## Salobreña
 - Rest El peñón
@@ -47,10 +52,12 @@
 - Rest MarDela 
 
 ## Playa de Calahonda
- - Resta El quinteto 
+- Resta El quinteto 
 
 ## Valle de Lecrin
+### Melegís
 - Restaurante Los Naranjos
+- Lemon Food
 
 ___
 Orígenes de datos:
