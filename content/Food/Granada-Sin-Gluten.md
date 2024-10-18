@@ -1,7 +1,10 @@
 # GRANADA Sin Gluten
-#SinGluten #EnfermedadCeliaca #Celiaquia 
+#SinGluten #EnfermedadCeliaca #Celiaquia
+
+> Fecha actualización 18/10/2024
 
 **Mapa gratuito**: https://mapcomplete.org/glutenfree
+___
 
 ## Granada Capital
 - Rest La Tana (chiquitito y de pie)

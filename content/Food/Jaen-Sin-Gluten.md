@@ -1,9 +1,10 @@
 # Jaén Sin Gluten
 #SinGluten #EnfermedadCeliaca #Celiaquia
 
-Fecha actualización Junio-2024
-___
+> Fecha actualización 18/10/2024
+
 **Mapa gratuito**: https://mapcomplete.org/glutenfree
+___
 ## Jaén capital
 1. Escondite *100% sin gluten* acreditado por la asociación Apeceja. 
 2. Ajo negro acreditado por la asociación APECEJA.

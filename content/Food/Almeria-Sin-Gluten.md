@@ -1,7 +1,10 @@
 # Almería Sin Gluten
-#SinGluten #EnfermedadCeliaca #Celiaquia 
+#SinGluten #EnfermedadCeliaca #Celiaquia
+
+> Fecha actualización 18/10/2024
 
 **Mapa gratuito**: https://mapcomplete.org/glutenfree
+___
 ## Almería Capital
 - Bar de pepe
 - La trattoría del Mar (pasta sin gluten)
