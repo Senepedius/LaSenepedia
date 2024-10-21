@@ -29,6 +29,9 @@ Las notas además de estar relacionadas por sus tags o temas, pueden estar relac
 
 Esto permite poder saltar de una nota a otra, relacionar temas y ampliar información de forma organica, parecido a como funciona nuestro cerebro o una base de datos relacional.
 
+#### [RSS](index.xml)
+Puedes seguir este jardín a modo de blog a través de tu lector RSS añadiendo el siguiente enlace: [rss](index.xml)
+
 ### Vista de Ordenador (Pantallas grandes)
 #### Explorador / Menú lateral
 El menú lateral muestra las diferentes carpetas y notas contenidas en cada una de ellas.
@@ -37,6 +40,8 @@ Cada directorio intenta englobar un conjunto de notas sobre un tema concreto.
 
 #### Local Graph
 Todos los enlaces y tags de una nota aparecen en su `gráfico local` o `local graph`, puedes hacer zoom, pinchar en cualquier nodo o punto dentro del gráfico y este te llevará a la página de esa nota o de ese tag.
+
+
 
 ## Idioma
 Las notas pueden estar en Inglés o Español, según tenga el día, esto depende sobre todo de si he necesitado realizar esta nota para un proyecto o tema que trato en un idioma concreto.
