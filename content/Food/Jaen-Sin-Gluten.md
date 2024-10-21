@@ -6,129 +6,133 @@
 **Mapa gratuito**: https://mapcomplete.org/glutenfree
 ___
 ## Jaén capital
-1. Escondite *100% sin gluten* acreditado por la asociación Apeceja. 
-2. Ajo negro acreditado por la asociación APECEJA.
-3. Pelayu acreditado por la asociación Apeceja. 
-4. Obradores acreditados por la asociación: El Escondite, Panecelli exclusivo 100% sin gluten y la Panadería.
-5. ⁠D’egustar by Leticia Navarro, acreditado por la asociación. 
-5. La Marisquería
-6. Almirez.
-7. La⁠ Maestra.
-8. Casa Amate (avisar antes de ir)
-9. La Espadaña( avisar antes de ir)
-10. Támesis
-11. Dixtinto 
-12. Pan Aceite (avisar siempre que te asesoren bien) 
-13. El Pato Rojo
-14. Hamburguesería Krusty Burger
-15. Jartá de la buena
-16. Cafetería Naibel 
-17. Restaurante Café "El comercial"
-18. Restaurante casa Nati
-19. Los Antonio's(barrio de San Ildefonso)
-20. La vestida (avisar antes de ir)
-21. Capilla 21
-22. Radis
-23. Bagá
-24. ⁠La esquina 
-25. ⁠Plaza de las palmeras (avisar antes de ir) 
-26. ⁠Cafetería Sanser
-27. Bar Alfonso
-28. Takos c.c.jaen plaza
-29. ⁠Vips 
-30. ⁠Cafetería Párraga
-31. ⁠La Mafia 
-32. ⁠Cafetería Pico Fino 
-33. ⁠Hamburguesería sol, cuidado con la contaminación cruzada 
-34. Atracón(Preguntar o avisar) cuidado con la contaminación cruzada 
-35. ⁠Biscúter(Preguntar o avisar)
-36. La Zarzamora(Preguntar o avisar)
-37. ⁠Cafetería restaurante Batallas 
-38. ⁠Restaurante Stadium
-39. ⁠Restaurante Gula
-40. ⁠Xhaka poke bar
-41. ⁠Xpecado
-42. ⁠Restaurante Sur 
-43. ⁠Taberna Don Sancho
-44. Hamburguesería Harlem
-45. ⁠Ginos
-46. ⁠Foster Hollywood 
-47. Grazie Mille
+- Escondite *100% sin gluten* acreditado por la asociación Apeceja. 
+- Ajo negro acreditado por la asociación APECEJA.
+- Pelayu acreditado por la asociación Apeceja. 
+- Obradores acreditados por la asociación: El Escondite, Panecelli exclusivo 100% sin gluten y la Panadería.
+- ⁠D’egustar by Leticia Navarro, acreditado por la asociación. 
+- Almirez.
+- La⁠ Maestra.
+- Casa Amate (avisar antes de ir)
+- La Espadaña( avisar antes de ir)
+- Támesis
+- Dixtinto 
+- Pan Aceite (avisar siempre que te asesoren bien) 
+- El Pato Rojo
+- Hamburguesería Krusty Burger
+- Jartá de la buena
+- Cafetería Naibel 
+- Restaurante Café "El comercial"
+- Restaurante casa Nati
+- Los Antonio's(barrio de San Ildefonso)
+- La vestida (avisar antes de ir)
+- Capilla 21
+- Radis
+- Bagá
+- ⁠La esquina 
+- Plaza de las palmeras (avisar antes de ir) 
+- ⁠Cafetería Sanser
+- Bar Alfonso
+- Takos c.c.jaen plaza
+- ⁠Vips 
+- ⁠Cafetería Párraga
+- La Mafia 
+- ⁠Cafetería Pico Fino 
+- ⁠Hamburguesería sol, cuidado con la contaminación cruzada 
+- Atracón(Preguntar o avisar) cuidado con la contaminación cruzada 
+- ⁠Biscúter(Preguntar o avisar)
+- La Zarzamora(Preguntar o avisar)
+- Cafetería restaurante Batallas 
+- ⁠Restaurante Stadium
+- ⁠Restaurante Gula
+- ⁠Xhaka poke bar
+- ⁠Xpecado
+- Restaurante Sur 
+- Taberna Don Sancho
+- Hamburguesería Harlem
+- ⁠Ginos
+- Foster Hollywood 
+- Grazie Mille
 
 ## TORREDONJIMENO
-1. Vista Alegre
-2. ⁠Hotel Restaurante Twist
-3. Salones María Luisa
-4. Cachorro
-5. Bar Patín
-6. Rest Bar Regina
+- Vista Alegre
+- ⁠Hotel Restaurante Twist
+- Salones María Luisa
+- Cachorro
+- Bar Patín
+- Rest Bar Regina
 
 ## MARTOS
-1. Oro negro. Para desayunar.
-2. Rest Los Reales
-3. Rest El Pinar
-4. Hotel Ciudad de Martos. Desayunos y comidas
-5. Rincon de Eloy. Desayuno y comidas.
-6. Casino Primitivo
-7. Rest. Baviera
-8. Charlotte
-9. ⁠La Tiza
+- Oro negro. Para desayunar.
+- Rest Los Reales
+- Rest El Pinar
+- Hotel Ciudad de Martos. Desayunos y comidas
+- Rincon de Eloy. Desayuno y comidas.
+- Casino Primitivo
+- Rest. Baviera
+- Charlotte
+- ⁠La Tiza
 
 ## JAMILENA
-1. Restaurante Los Cuñaos
-2. ⁠Restaurante Capiscol
+- Restaurante Los Cuñaos
+- ⁠Restaurante Capiscol
 
 ## LINARES 
-1. Masqdulce bakery café, cafetería acreditada por la Asociación. 
-2. Ventanas by Montes. 
-3. ⁠El stop
-2. Los sentidos
-4. El rincón de Mateo
-5. Bar el cordobés
-6. Gastrobar Victoria 
-7. La tertulia
-8. La carbonería
-9. El montes
-10. El bamboleo
-11. Los orzaes
-12. Hamburguesería Harlem
+- Masqdulce bakery café, cafetería acreditada por la Asociación. 
+- Ventanas by Montes. 
+- ⁠El stop
+- Los sentidos
+- El rincón de Mateo
+- Bar el cordobés
+- Gastrobar Victoria 
+- La tertulia
+- La carbonería
+- El montes
+- El bamboleo
+- Los orzaes
+- Hamburguesería Harlem
 
 ## ÚBEDA
-1. Obrador acreditado por la asociación: Gardel. 100% sin gluten.
-2. ⁠ Hotel Acreditado por la asociación: Casa de Luna y Sol, desayuno 100% sin gluten y sin lactosa.
+- Obrador acreditado por la asociación: Gardel. 100% sin gluten.
+- ⁠Hotel Acreditado por la asociación: Casa de Luna y Sol, desayuno 100% sin gluten y sin lactosa.
 
 ## Baeza
-1. Taberna el Arcediano (tapas sin gluten)
-2. Restaurante Brasería Los Arcos
-3. El Anden 9 3/4 pizzería y hamburguesería
-4. El Pájaro
+- Taberna el Arcediano (tapas sin gluten)
+- Restaurante Brasería Los Arcos
+- El Anden 9 3/4 pizzería y hamburguesería
+- El Pájaro
 
 ## Cazorla
-1. Restaurante Leandro
-2. Taberna Quinito
-3. Rest bistro Casa Alfonso
-4. Antojitos Mexican
-5. Rest Antique (Dueño celiaco)
-6. Meson Don chema
-7. Chiringuito El Pajarito (El tranco)
-8. Restaurante Montepiedra (Torre de Vinagre)
+- Restaurante Leandro
+- Taberna Quinito
+- Rest bistro Casa Alfonso
+- Antojitos Mexican
+- Rest Antique (Dueño celiaco)
+- Meson Don chema
+- Chiringuito El Pajarito (El tranco)
+- Restaurante Montepiedra (Torre de Vinagre)
 
 ### Arrollo Frío (Cazorla)
-1. La Forcheta
+- La Forcheta
 
 ## Mancha Real
-1. Mirador de Puerta Real
-2. Pizzería Grazie Mille
-3. Restaurante Aires de Mágina
-4. Restaurante Casa Jose
-5. La Abadía del Monje
-6. Cafetería Eros
+- Mirador de Puerta Real
+- Pizzería Grazie Mille
+- Restaurante Aires de Mágina
+- Restaurante Casa Jose
+- La Abadía del Monje
+- Cafetería Eros
+- Cafetería Noly's
 
 ## Alcalá la Real
 - Churrería el Ferial (Avisar media hora antes y mínimo para 2 personas)
 - La Piedra
 - Mesón Alsur
 - El rincón de Pepe
+- Pizzería Paolo
+
+### Santa Ana
+- Restaurante Sol y Luna
 ___
 Orígenes de datos:
 - Listado manual conjunto de la Comunidad de Whatsapp Celiacos de España > Celiacos de Jaén

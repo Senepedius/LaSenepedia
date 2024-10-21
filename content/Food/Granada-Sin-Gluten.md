@@ -14,7 +14,7 @@ ___
 - El pescaito de Carmela (Carta 100% sin gluten)
 - La nonna Carmela (Carta 100% sin gluten)
 - La Piccola Carmela (Muchas opciones sin gluten)
-- Rue de la Crepe
+- Rue de la Crepe (100% sin gluten)
 - Mercedes isla (pastelería, cafetería)
 - La Gran Taberna
 - Pizzería tradizione italiana solo findes y festivos (hacen reparto a domicilio)
@@ -23,7 +23,8 @@ ___
 - Sancho Burguer (Varios locales por todo Granada)
 - El tacón flamenco
 - Pastelería Cristina (Calle Recogidas)
-- La Máfia (frente al Forum)
+- La Máfia (frente al Forum, gran cocina sin contaminación cruzada)
+
 
 ## ALMUÑECAR
 - Restaurante Botos en paseo de San un Cristobal
