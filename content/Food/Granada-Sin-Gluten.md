@@ -6,9 +6,9 @@
 **Mapa gratuito**: https://mapcomplete.org/glutenfree
 ___
 ## Granada Capital
-- Rest La Tana (chiquitito y de pie)
+- Restaurante La Tana (chiquitito y de pie)
 - Restaurante Aparicio's (Carta 100% sin gluten)
-- Rest La botillería 
+- Restaurante La botillería 
 - El quinteto en (Calahonda)
 - La cuchara de Carmela
 - El pescaito de Carmela (Carta 100% sin gluten)
@@ -38,7 +38,7 @@ ___
 - Heladeria Daniel
 - Cafe la Italiana
 - La Cabaña
-- Rest.La Tralla
+- Restaurante.La Tralla
 - Mar de Plata
 
 ## Armilla
@@ -47,13 +47,13 @@ ___
 - El tacón flamenco - Centro comercial Nevada
 
 ## Salobreña
-- Rest El peñón
+- Restaurante El peñón
 
 ## Herradura
-- Rest Terra mar
-- Rest La Barrica
-- Rest Arenas
-- Rest MarDela 
+- Restaurante Terra mar
+- Restaurante La Barrica
+- Restaurante Arenas
+- Restaurante MarDela 
 
 ## Playa de Calahonda
 - Resta El quinteto 

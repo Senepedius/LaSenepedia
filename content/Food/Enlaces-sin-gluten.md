@@ -6,4 +6,5 @@
 **Mapa gratuito**: https://mapcomplete.org/glutenfree
 ___
 
-- Especias sin gluten online https://www.1001especias.com/
+- Tienda de Especias sin gluten online: https://www.1001especias.com/
+- Mapas y recursos gratuitos interesantes: https://www.celiacoalostreinta.com/
