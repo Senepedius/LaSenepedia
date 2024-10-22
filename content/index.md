@@ -43,7 +43,7 @@ Todos los enlaces y tags de una nota aparecen en su `gráfico local` o `local gr
 
 
 
-## Idioma
+## Idioma 
 Las notas pueden estar en Inglés o Español, según tenga el día, esto depende sobre todo de si he necesitado realizar esta nota para un proyecto o tema que trato en un idioma concreto.
 
 ## [Contacto](Contacto.md)
@@ -53,3 +53,19 @@ Senepedius@proton.me
 
 
 Si has llegado hasta aquí, mis más sinceras disculpas y gracias por tu tiempo.
+
+
+___
+## Sitios Interesantes
+Webs que me inspiran a aprender y compartir mi humilde conocimiento
+### Digital Gardens
+- jzhao.xyz: https://jzhao.xyz/
+- euklidiadas: https://publish.obsidian.md/euklidiadas/
+
+### Blogs 
+- Bruckerite: https://brucknerite.net
+- La ciencia de la mula Francis: https://francis.naukas.com/
+
+### Webs
+- solar-powered and self-hosted website: https://solar.dri.es/
+- OpenStreetMaps: https://www.openstreetmap.org/
