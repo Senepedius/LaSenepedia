@@ -24,11 +24,12 @@ ___
 - El tacón flamenco
 - Pastelería Cristina (Calle Recogidas)
 - La Máfia (frente al Forum, gran cocina sin contaminación cruzada)
+- Cafetería Massay
 
 
 ## ALMUÑECAR
 - Restaurante Botos en paseo de San un Cristobal
-- Chiringuito deportivo enfrente de aquatropip
+- Chiringuito deportivo enfrente de Aqua Tropic
 - Restaurante  Mar de plata
 - Pizzería Pinocho
 - Restaurante Ana María en paseo San Cristóbal
