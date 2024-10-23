@@ -20,8 +20,8 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian", ".git", ".vscode"],
     defaultDateType: "created",
     theme: {
-      fontOrigin: "googleFonts",
-      cdnCaching: true,
+      fontOrigin: "local",
+      cdnCaching: false,
       typography: {
         header: "Schibsted Grotesk",
         body: "Source Sans Pro",
