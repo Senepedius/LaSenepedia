@@ -1,7 +1,7 @@
 # Jaén Sin Gluten
 #SinGluten #EnfermedadCeliaca #Celiaquia
 
-> Fecha actualización 18/10/2024
+> Fecha actualización 24/10/2024
 
 **Mapa gratuito**: https://mapcomplete.org/glutenfree
 ___
@@ -37,7 +37,7 @@ ___
 - ⁠Vips 
 - ⁠Cafetería Párraga
 - La Mafia 
-- ⁠Cafetería Pico Fino 
+- ⁠Cafetería Pico Fino (Tostadora a parte)
 - ⁠Hamburguesería sol, cuidado con la contaminación cruzada 
 - Atracón(Preguntar o avisar) cuidado con la contaminación cruzada 
 - ⁠Biscúter(Preguntar o avisar)
@@ -52,7 +52,8 @@ ___
 - Hamburguesería Harlem
 - ⁠Ginos
 - Foster Hollywood 
-- Grazie Mille
+- Pizzería Grazie Mille
+- Indalo (Tostadora a parte) zona Bulevar
 
 ## TORREDONJIMENO
 - Vista Alegre
