@@ -16,13 +16,15 @@ Aquí tienes un listado de todas y cada una de ellas:
 
 Como guía rápida, aquí te dejo algunas que pueden interesarte:
 
-#SinGluten #seguridad #android #libros #privacy #foss #movilidad #urbanismo
+#SinGluten #seguridad #android #libros #privacidad #foss #movilidad #urbanismo
 
 ### Notas Destacadas
 Lista de notas que pueden ser de interés:
 
 - [Sin-Gluten](Food/Sin-Gluten.md) Serie de notas sobre lugares o recursos libres para personas con enfermedad celiaca o sensibilidad al gluten (SGNC).
-- [Awesome Privacy Android Apps (202408251217)](Software/Android/Awesome%20Privacy%20Android%20Apps%20(202408251217).md) (Inglés) Aplicaciones para Android que he usado personalmente enfocadas en privacidad y la soberanía de tus datos.
+- [Apps Android respetuosas con tu privacidad](Software/Android/Apps%20Android%20respetuosas%20con%20tu%20privacidad.md)
+- [Awesome Privacy Android Apps](Software/Android/Awesome%20Privacy%20Android%20Apps%20(202408251217).md) (Inglés)
+- [Contenido de Movilidad y urbanismo](Urbanismo/Contenido%20de%20movilidad%20y%20urbanismo.md) Listado de Canales, podcast, y cuentas en Redes relacionadas con el urbanismo y la movilidad.
 
 ### Enlaces entre notas
 Las notas además de estar relacionadas por sus tags o temas, pueden estar relacionadas a través de enlaces a otras notas directamente en su cuerpo.

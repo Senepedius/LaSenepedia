@@ -1,9 +1,14 @@
 202408251217
 # Awesome Privacy Android Apps
+[Leer en Español 🇪🇸](Apps%20Android%20respetuosas%20con%20tu%20privacidad.md)
+
 #android #apps #foss #tools #privacy #E2EE #software
 
 Apps for Android with privacy and security as their main focus.
-I've personally tried these apps before recommending them.
+> I've personally tried these apps before recommending them.
+
+You can search for these apps on [F-Droid](https://f-droid.org/)
+
 ## Network Privacy
 - **NetGuard** - Manage internet access to any app or service in you Android phone without root
 - **TrackerControl** - NetGuard Fork, more usable and centered on trackers instead of just network traffic

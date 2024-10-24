@@ -24,7 +24,7 @@ ___
 - Cafetería Naibel 
 - Restaurante Café "El comercial"
 - Restaurante casa Nati
-- Los Antonio's(barrio de San Ildefonso)
+- Los Antonio's (barrio de San Ildefonso)
 - La vestida (avisar antes de ir)
 - Capilla 21
 - Radis
@@ -38,10 +38,10 @@ ___
 - ⁠Cafetería Párraga
 - La Mafia 
 - ⁠Cafetería Pico Fino (Tostadora a parte)
-- ⁠Hamburguesería sol, cuidado con la contaminación cruzada 
-- Atracón(Preguntar o avisar) cuidado con la contaminación cruzada 
-- ⁠Biscúter(Preguntar o avisar)
-- La Zarzamora(Preguntar o avisar)
+- ⁠Hamburguesería sol, tienen cuidado con la contaminación cruzada 
+- Atracón (Preguntar o avisar) tienen cuidado con la contaminación cruzada 
+- ⁠Biscúter (Preguntar o avisar)
+- La Zarzamora (Preguntar o avisar)
 - Cafetería restaurante Batallas 
 - ⁠Restaurante Stadium
 - ⁠Restaurante Gula
@@ -52,8 +52,9 @@ ___
 - Hamburguesería Harlem
 - ⁠Ginos
 - Foster Hollywood 
-- Pizzería Grazie Mille
+- Pizzería Grazie Mille Bulevar (certificada por FACE)
 - Indalo (Tostadora a parte) zona Bulevar
+- Cafetería Liverpool C/ Sefarad,2  (Tostadora a parte)
 
 ## TORREDONJIMENO
 - Vista Alegre
